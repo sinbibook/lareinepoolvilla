@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-18T05:48:15.298027381Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-26T00:32:03.830043878Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "991553c4-f232-4df7-b035-d6ff8a7974a7",
     "homepageId": "53c19537-5682-42d4-8253-97e220f82ce3"
@@ -26,7 +26,7 @@
     "city": "고성군",
     "domain": "lareinepoolvilla.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/37568159",
-    "ybsId": "",
+    "ybsId": "80279",
     "amenities": [ ],
     "nearbyAttractions": [
       "해변",
